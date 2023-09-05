@@ -18,7 +18,7 @@ async def start(c, m, cb=False):
         print(e)
 
     BUTTONS = [[
-        InlineKeyboardButton("My Father 🧔", url=f"https://t.me/{username}"),
+        InlineKeyboardButton("Father 🧔", url=f"https://t.me/{username}"),
         InlineKeyboardButton("Updates Channel 🔰", url="https://telegram.dog/NsBotsOfficial")
         ],[
         InlineKeyboardButton("Source code 😎", url="https://github.com/Ns-AnoNymouS/animated-lamp")
